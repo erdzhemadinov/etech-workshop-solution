@@ -1,6 +1,15 @@
 # etech-workshop-solution
 The 6th place solution(rosberta+roberta blend + thresholds + pseudolabelling)
 
+Паблик: 0.5760195035460993 (3 место)
+Приват: 0.5685098823        (6 место)
+
+# Инференс запущен на платфоре kaggle(для удобства)
+
+https://www.kaggle.com/code/erdzhemadinov/etech-inference/ (последняя версия)
+
+
+UPD: Я мимо проходил и на стажировку не претендую
 
 # Описание решения
 
@@ -82,10 +91,4 @@ UPD: Если в метках в результате не осталось ни
 
 4: + Псевдолейблинг 0.5760195035460993		
 
-Паблик: 0.5760195035460993
-Приват: 0.5685098823        
-# Инференс запущен на платфоре kaggle(для удобства)
 
-https://www.kaggle.com/code/erdzhemadinov/etech-inference/ (последняя версия)
-
-UPD: Я мимо проходил и на стажировку не претендую
