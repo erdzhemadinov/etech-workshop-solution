@@ -2,6 +2,7 @@
 The 6th place solution(rosberta+roberta blend + thresholds + pseudolabelling)
 
 Паблик: 0.5760195035460993 (3 место)
+
 Приват: 0.5685098823        (6 место)
 
 # Инференс запущен на платфоре kaggle(для удобства)
