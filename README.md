@@ -7,7 +7,7 @@ The 5th place solution(rosberta+roberta blend + thresholds + pseudolabelling)
 
 
 
-# Инференс запущен на платфоре kaggle(для удосбства)
+# Инференс запущен на платфоре kaggle(для удобства)
 
 https://www.kaggle.com/code/erdzhemadinov/etech-inference/ (последняя версия)
 
